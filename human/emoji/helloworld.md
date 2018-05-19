@@ -1,0 +1,1 @@
+:hand::earth_africa:
