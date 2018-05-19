@@ -2,4 +2,7 @@
 A repository to store how to say/output "Hello, World!" in as many languages as possible.
 
 ## Supported Languages
-* **Brainf***** (referred to hereafter as _**branflakes**_)
+* **Brainf***** (sometimes referred to as _**branflakes**_)
+* **English**
+* **French**
+* **Python**
