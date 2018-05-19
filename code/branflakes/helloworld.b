@@ -23,7 +23,8 @@
 >---. Move to cell #3 and Subtract 3 and Output the ASCII character number 101 (e)
 +++++ ++.. Add 7 and Output the ASCII character number 108 (l) twice
 +++. Add 3 and Output the ASCII character number 111 (o)
->>. Move to cell #5 and Output the ASCII character number 32 (SPACE)
+>>+++++ +++++ ++. Move to cell #5 and Add 12 and Output the ASCII character number 44 (,)
+----- ----- --. Subtract 12 and Output the ASCII character number 32 (SPACE)
 <-. Move Back to cell #4 and Subtract 1 and Output the ASCII character number 97 (W)
 <. Move Back to cell #3 and Output the ASCII character number 111 (o)
 +++. Add 3 and Output the ASCII character number 114 (r)
