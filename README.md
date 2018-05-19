@@ -5,4 +5,6 @@ A repository to store how to say/output "Hello, World!" in as many languages as 
 * **Brainf***** (sometimes referred to as _**branflakes**_)
 * **English**
 * **French**
+* **German**
+* **Ook**
 * **Python**
