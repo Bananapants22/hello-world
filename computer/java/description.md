@@ -1,6 +1,8 @@
+# Java
 Java is a general purpose, object oriented programming language. It is "write once, run anywhere" (WORA), 
 so compiled Java code can be run on any platform with Java without being compiled again.
 
+# Example
 Java code looks like this:
 ```java
 /**
@@ -39,3 +41,6 @@ public class Stopwatch
 	{	return (stopTime - startTime);	}
 }
 ```
+
+# How to Run
+I have no idea...
