@@ -17,3 +17,8 @@ Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. 
 Ook? Ook. Ook! Ook! Ook? Ook! Ook. Ook? Ook! Ook.
 ```
 _(Indentation does not matter!)_
+
+Some people prefer to shorten the code by omitting the word Ook, and instead just using pairs of symbols. This makes it easier to read, but is not run:
+```ook
+.. .. .. .. .. .. .. .. .. .. .. .. .. !? .? .. .. .. .. .. ?. !! ?! .? !.
+```
