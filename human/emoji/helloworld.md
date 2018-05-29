@@ -1,1 +1,1 @@
-:hand::earth_africa:
+:wave::earth_africa:
