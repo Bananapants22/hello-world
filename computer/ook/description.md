@@ -1,3 +1,4 @@
+# Ook
 Ook is an esoteric programming language, based and brainf*** and designed for Orangutans.
 
 It only has 8 commands:
@@ -10,6 +11,7 @@ It only has 8 commands:
 * `Ook! Ook?` - Jump past the matching `Ook? Ook!` if the cell under the pointer is 0
 * `Ook? Ook!` - Jump back to the matching `Ook! Ook?` if the cell under the pointer is not 0
 
+# Example
 Ook code looks like this:
 ```ook
 Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. 
@@ -23,4 +25,5 @@ Some people prefer to shorten the code by omitting the word Ook, and instead jus
 .. .. .. .. .. .. .. .. .. .. .. .. .. !? .? .. .. .. .. .. ?. !! ?! .? !.
 ```
 
+# How to Run
 I use the Ook interpreter at https://www.geocachingtoolbox.com/index.php?page=brainfuckOok
