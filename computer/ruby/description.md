@@ -14,3 +14,5 @@ puts "Hi! #{name}"           # Prints Hi! and the name that was input with a new
 To get Ruby on **Raspberry Pi**, use the command `curl -L https://get.rvm.io | bash -s stable --ruby` to install Ruby.
 
 On **Windows**, go to https://rubyinstaller.org/ to download an installer for Ruby.
+
+You can then run your code with `ruby filename.rb`, with `filename` being the name of your file.
