@@ -18,7 +18,9 @@ Ook? Ook. Ook! Ook! Ook? Ook! Ook. Ook? Ook! Ook.
 ```
 _(Indentation does not matter!)_
 
-Some people prefer to shorten the code by omitting the word Ook, and instead just using pairs of symbols. This makes it easier to read, but is not run:
+Some people prefer to shorten the code by omitting the word Ook, and instead just using pairs of symbols. This makes it easier to read, but is usually not run:
 ```ook
 .. .. .. .. .. .. .. .. .. .. .. .. .. !? .? .. .. .. .. .. ?. !! ?! .? !.
 ```
+
+I use the Ook interpreter at https://www.geocachingtoolbox.com/index.php?page=brainfuckOok
