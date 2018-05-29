@@ -4,4 +4,4 @@ The word "emoji" comes from the Japanese 絵文字, meaning "picture character".
 
 Emoji look like this:
 
-:hand::smiley::speech_balloon:
+:thumbsup::smiley::poop:
