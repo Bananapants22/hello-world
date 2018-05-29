@@ -1,3 +1,4 @@
+# Brainf*** / Branflakes
 Brainf*** is an esoteric programming language, and is possibly the most famous.
 
 It only has 8 commands:
@@ -11,6 +12,7 @@ It only has 8 commands:
 * `]` - Jump back to the matching `[` if the cell under the pointer is not 0
 * All other symbols are comments
 
+# Example
 Brainf*** code looks like this:
 ```bf
 +++++ +++++ +++ Add 13 to cell #0
@@ -25,3 +27,6 @@ Removing the comments and indentation, this can be shortened to:
 ```bf
 +++++++++++++[>+++++<-]>.
 ```
+
+# How to Run
+I use the online interpreter at https://copy.sh/brainfuck/
