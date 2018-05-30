@@ -4,6 +4,7 @@ A repository to store how to say/output "Hello, World!" in as many languages as 
 ## Supported Languages
 * **Assembly** (on _**Raspberry Pi**_)
 * **Brainf***** (sometimes referred to as _**branflakes**_)
+* **C**
 * **Emoji**
 * **English**
 * **Fortran**
