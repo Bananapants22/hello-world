@@ -10,6 +10,8 @@ A repository to store how to say/output "Hello, World!" in as many languages as 
 * **Fortran**
 * **French**
 * **German**
+* **HQ9+**
+* **HQ9++**
 * **Java**
 * **Ook**
 * **Python**
